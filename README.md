@@ -46,3 +46,19 @@ Path         Property   string Path {get;}
 Provider     Property   System.Management.Automation.ProviderInfo Provider {get;}
 ProviderPath Property   string ProviderPath {get;}
 ```
+
+```
+PS C:\Users\rpaleru> $PSVersionTable
+
+Name                           Value
+----                           -----
+PSVersion                      5.1.17134.858
+PSEdition                      Desktop
+PSCompatibleVersions           {1.0, 2.0, 3.0, 4.0...}
+BuildVersion                   10.0.17134.858
+CLRVersion                     4.0.30319.42000
+WSManStackVersion              3.0
+PSRemotingProtocolVersion      2.3
+SerializationVersion           1.1.0.1
+```
+
