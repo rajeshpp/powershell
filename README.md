@@ -3,6 +3,8 @@ https://docs.microsoft.com/en-us/powershell/
 
 ```cls``` or ```clear``` are aliases for ```Clear-Host```
 
+
+```dir``` is and alias for ```Get-ChildItem```
 ```
 PS C:\Users\rpaleru> get-ChildItem|Out-Host
 
