@@ -4,7 +4,7 @@ https://docs.microsoft.com/en-us/powershell/
 ```cls``` or ```clear``` are aliases for ```Clear-Host```
 
 
-```dir``` is and alias for ```Get-ChildItem```
+```dir``` is an alias for ```Get-ChildItem```
 ```
 PS C:\Users\rpaleru> get-ChildItem|Out-Host
 
@@ -63,4 +63,5 @@ WSManStackVersion              3.0
 PSRemotingProtocolVersion      2.3
 SerializationVersion           1.1.0.1
 ```
+
 
